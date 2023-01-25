@@ -1,2 +1,2 @@
 # https-lurexluxelorraine.art.blog-
-Bistueria, accesorios
+Bistueria, accesorios, hogar, decoraciòn.
