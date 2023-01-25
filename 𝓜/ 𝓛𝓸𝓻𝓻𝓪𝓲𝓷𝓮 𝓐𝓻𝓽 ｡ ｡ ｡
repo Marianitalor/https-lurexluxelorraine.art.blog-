@@ -1,0 +1,188 @@
+# https-lurexluxelorraine.art.blog-
+ 
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Contacto - 𝓛𝓸𝓻𝓻𝓪𝓲𝓷𝓮 𝓐𝓻𝓽 ｡ ｡ ｡</title>
+
+        <link rel="stylesheet" href="reset.css.css">
+        <link rel="stylesheet" href="productos.css">
+    </head>
+    <body>
+        <footer>
+            <alt="Logo de la 𝓛𝓸𝓻𝓻𝓪𝓲𝓷𝓮 𝓐𝓻𝓽 ｡ ｡ ｡">
+                
+               </footer>
+            </body>
+        </html>
+        
+        <body>
+                
+            <header>
+                 <h1 class="titulo-principal" style= color:pink;>𝓛𝓸𝓻𝓻𝓪𝓲𝓷𝓮 𝓐𝓻𝓽｡｡｡ </h1>
+            </header>
+            
+                 
+                       </header>
+            
+                        <p>Son nombre poner, <strong>𝓛𝓸𝓻𝓻𝓪𝓲𝓷𝓮 𝓐𝓻𝓽｡｡｡</strong>son rosita y sombra el palma.</p>
+                        <p id="mision"><em>Nuestra es marketing y bloguera: <strong>"son para adolescente, para jovencita, accesorios, bisuteria y fotografico."</strong>.</em></p>
+                        <p>Ofrecemos profesionales</p> 
+        </body>  
+        
+            <header>
+                <div class="caja">
+            <h1><img src="https://scontent.fbjx1-1.fna.fbcdn.net/v/t39.30808-6/274787613_107270635231493_46384939481847702_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGtCNENPcjgVmbSqya7grCdFidEeXYsvRkWJ0R5diy9GdaFbiZeu-VT8RmnkYZ267f1GCWqV66UsOJv7-zoomep&_nc_ohc=d_iiHn1WcRoAX9BWQDm&_nc_ht=scontent.fbjx1-1.fna&oh=00_AfB1QMeYQcc3w-SavsNG0ORHpN-EbwBstVKa-0W377gBVQ&oe=639F5C17" alt="Logo de la 𝓛𝓸𝓻𝓻𝓪𝓲𝓷𝓮 𝓐𝓻𝓽 ｡ ｡ ｡"></h1>
+            <nav> 
+                <ul>
+                    <li><a href="https://lurexluxelorraine.art.blog/">Entrar</a></li>
+                    <li><a href="file:///C:/Users/Maria/index.html">Lista</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+             <div>
+            
+            <h3 class="titulo-centralizado" style="color: palevioletred;">𝓛𝓸𝓻𝓻𝓪𝓲𝓷𝓮 𝓐𝓻𝓽｡｡｡ de marketing</h3>
+            <ul>
+                <li class="items">Accesorios</li>
+                <li class="items">Celular</li>
+                <li class="it">Hogar</li>
+                <li class="⋄">Gafas</li>
+                <li class="⋄">Bisuteria</li>
+            </ul>
+            <img src="https://scontent.fbjx1-1.fna.fbcdn.net/v/t39.30808-6/270738382_112661677956866_8432865436165051139_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=WAAlK6CiTNEAX_Ke29J&_nc_ht=scontent.fbjx1-1.fna&oh=00_AfBWLF_62dueO6rv-jlkqfVmpNTC9Q5kin7JSmy7tELQTw&oe=639FF537"> 
+            <body>
+                        
+            </div>
+            
+                </body>
+            </html>
+
+            
+   <main>
+    <p class="Copyright" style="color: palevioletred;">&copy Copyright 𝓛𝓸𝓻𝓻𝓪𝓲𝓷𝓮 𝓐𝓻𝓽 ｡ ｡ ｡ 2022 - 2022</p>
+   </main>
+   
+   main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+main > p {        } +
+
+main p:not(#missao) {
+}
+
+form {
+    margin: 40px 0;
+}
+
+form label, form p{
+    display:block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+img + p {
+}
+
+img ~ p {
+}
+
+.items{
+    line-height: 1.5;
+}    
+
+.items:before{
+    content: "⋄";
+}    
+
+.input-padron{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+form p{
+    color: palevioletred;
+}
+
+p{
+    color: palevioletred;   
+}
+
+.test{
+    color: palevioletred;
+}
+
+p.test{
+    color: palevioletred;
+}
+
+#test{
+    color: palevioletred;
+}
+
+.enviar{
+    width: 40%;
+    padding: 15px 0; 
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background: palevioletred;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover{
+    background: palevioletred;
+    transform: scale(1.2);
+}    
+/*Aquí inicia el CSS para nuestra home*/
+.banner{
+    width: 100%;
+}
+
+.titulo-centralizado{
+    padding: 3cm 0;
+}
+
+.titulo-principal{
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear:left;
+}
+
+
+.principal p{
+    margin: 0 0 1em;
+}
+
+
+.principal strong{
+    font-weight: bold;
+}
+
+
+.principal em{
+    font-style: italic;
+}
+
+
+.utensilios{
+    width: 120px;
+    float:left;
+    margin: 0 20px 20px 0;
+}
+
+
+.imagenDiferenciales{
+    width: 60%;
+}
+
